@@ -1,4 +1,4 @@
-# Soal no 2
+# Soal-2
 # Buatlah sebuah program yang dapat menghitung luas lingkaran.
 
 phi = 22/7
