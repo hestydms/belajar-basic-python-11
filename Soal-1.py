@@ -1,4 +1,4 @@
-# Soal no 1
+# Soal-1
 # Buatlah sebuah program yang menerima 3 input dari user.
 
 Nama = input("Masukan Nama Anda: ")
