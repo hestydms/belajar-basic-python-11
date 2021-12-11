@@ -1,4 +1,4 @@
-# Soal no 3
+# Soal-3
 # Buatlah sebuah program untuk menentukan apakah seorang siswa lulus ujian atau tidak. Siswa dinyatakan lulus apabila nilai ujian teori dan ujian praktek minimal 70. 
 nilai_teori = float(input("Masukan nilai teori: "))
 nilai_praktek = float(input("Masukan nilai praktek: "))
